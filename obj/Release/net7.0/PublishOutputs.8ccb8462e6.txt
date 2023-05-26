@@ -1,0 +1,12 @@
+C:\Users\david.martin\RiderProjects\app1\publish\app1.exe
+C:\Users\david.martin\RiderProjects\app1\publish\appsettings.Development.json
+C:\Users\david.martin\RiderProjects\app1\publish\appsettings.json
+C:\Users\david.martin\RiderProjects\app1\publish\app1.dll
+C:\Users\david.martin\RiderProjects\app1\publish\app1.deps.json
+C:\Users\david.martin\RiderProjects\app1\publish\app1.runtimeconfig.json
+C:\Users\david.martin\RiderProjects\app1\publish\app1.pdb
+C:\Users\david.martin\RiderProjects\app1\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\david.martin\RiderProjects\app1\publish\Microsoft.OpenApi.dll
+C:\Users\david.martin\RiderProjects\app1\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\david.martin\RiderProjects\app1\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\david.martin\RiderProjects\app1\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
